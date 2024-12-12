@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/raspimouse2-release.git
 tracks:
   dashing:
     actions:
@@ -126,4 +127,3 @@ tracks:
     vcs_type: git
     vcs_uri: https://github.com/rt-net/raspimouse2.git
     version: :{auto}
-
